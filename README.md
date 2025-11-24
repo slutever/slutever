@@ -5,7 +5,7 @@
  <img src="https://media1.tenor.com/m/4JSdpy5olZYAAAAd/satoru-ranfren.gif" width="20%"/>
 </p>
 <p align="center">
-  spam follow
+  spam follow 
 </p>
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=slutever.slutever&title=Entities&color=%23B0B0B0" alt="Entities" />
